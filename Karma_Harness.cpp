@@ -2,16 +2,9 @@
 * File:        Karma_Harness.cpp
 * Author:
 * Description: Karma Shellcode Test Harness 
-* License:     KARMA Product License Agreement (KPLA)
+* License:     MIT License
 *
 * This file is part of Karma Test Harness.
-*
-* KARMA is proprietary software provided under the terms
-* of the KARMA Product License Agreement (KPLA). You may not use this file
-* except in compliance with the KPLA.
-*
-* You should have received a copy of the KARMA Product License Agreement (KPLA)
-* along with Karma. If not, contact a Karma representative.
 *
 * Version:     0.1
 *******************************************************************************/
